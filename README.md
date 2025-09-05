@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Vedant Deshmukh  
+Computer Engineering graduate with hands-on experience in AI and full-stack development. I’m driven to explore challenging industry projects, collaborate on open-source, and continuously grow as an engineer.
 
 🎓 **B.Tech in Computer Engineering (2021–2025)**  
 📍 Sardar Patel Institute of Technology, Mumbai  
@@ -14,10 +15,10 @@
 - Integrated **real-time evaluation framework** for multimedia integrity with sub-500ms latency.  
 
 **Full-Stack Developer Intern @ IIT Bombay** *(Jan 2024 – Jul 2024)*  
-- Designed & deployed a **full-stack web app** for typing performance measurement (PHP, MySQL, JS).  
-- Recorded **1000+ sessions**, automated **80%** of metric computations (WPM, CER, TER).  
-- Built **admin dashboards** & conducted a **Long-Term Use study** with 5000+ text samples.  
-
+- Designed & deployed a **full-stack web app** for measuring typing performance in Indian languages.  
+- Collected **1000+ user sessions** and automated analysis of **typing speed and error rates** (Words Per Minute, Character Error Rate).  
+- Built **admin dashboards** and conducted a **long-term study** with **5000+ text samples** for linguistic performance analysis.  
+  
 ---
 
 ## 📚 Publications  
