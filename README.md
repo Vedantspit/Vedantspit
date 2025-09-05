@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Vedant!
 
-<!--
-**Vedantspit/Vedantspit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Final year student working on **6G Networks & Intelligent Reflecting Surfaces**
+- 💻 I love working with **MERN stack, Algorithms, and AI**
+- 🌱 Currently learning **German (A1)** and deep diving into **network security**
+- 🚀 Open-source contributor | Always curious | Gym enthusiast
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Twitter](https://twitter.com/yourusername)
+- [Portfolio](https://yourportfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedantspit&show_icons=true&theme=radical)
+
+### 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantspit&layout=compact&theme=radical)
