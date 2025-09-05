@@ -2,7 +2,7 @@
 
 🎓 **B.Tech in Computer Engineering (2021–2025)**  
 📍 Sardar Patel Institute of Technology, Mumbai  
-📫 Reach me at: **vedantdeshmukh3108@gmail.com** | [LinkedIn](https://www.linkedin.com/in/your-link) | [GitHub](https://github.com/Vedantspit)  
+📫 Reach me at: **vedantdeshmukh3108@gmail.com** | [LinkedIn](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/) | [GitHub](https://github.com/Vedantspit)  
 
 ---
 
@@ -21,8 +21,10 @@
 ---
 
 ## 📚 Publications  
-- 📝 *Application to Conduct Text Input Research Studies in Indian Languages*  
-- 📝 *Skin Cancer Classification using Transfer Learning*  
+
+- 📝 [Application to Conduct Text Input Research Studies in Indian Languages](https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5)  
+- 📝 [Skin Cancer Classification using Transfer Learning](https://doi.org/10.1007/978-3-031-67444-0_17)  
+
 
 ---
 
@@ -31,7 +33,7 @@
 ### [🍲 Food Recipe Blog Web App](https://github.com/Vedantspit/Food_Blog_App) | *MERN, JWT, Tailwind*  
 - Recipe-sharing platform with **secure authentication**, AI-powered **ChefBot**, and image uploads.  
 
-### [📡 IRS-Aided Jamming Detection Framework](https://github.com/Vedantspit/IRS-Jamming-Detection) | *ns-3, C++, ML*  
+### [📡 IRS-Aided Jamming Detection Framework](https://github.com/Vedantspit/IRS_Jamming_Sim_Detection) | *ns-3, C++, ML*  
 - Simulated **5G with UAVs + IRS** for secure comms.  
 - Trained **CNN-LSTM** model for jamming detection (**87.26% accuracy**).  
 
