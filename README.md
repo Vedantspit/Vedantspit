@@ -6,8 +6,7 @@ Computer Engineering graduate with hands-on experience in AI and full-stack deve
 🎓 **B.Tech in Computer Engineering (2021–2025)**  
 📍 Sardar Patel Institute of Technology, Mumbai  
 
-
-📫 Reach me at: **vedantdeshmukh3108@gmail.com** | [LinkedIn](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/) 
+📫 **vedantdeshmukh3108@gmail.com** | [LinkedIn](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/) 
 ---
 
 ## 💼 Experience  
@@ -51,7 +50,7 @@ Computer Engineering graduate with hands-on experience in AI and full-stack deve
 **Frameworks**: React, Node.js, Flask, FastAPI  
 **ML/DL**: PyTorch, TensorFlow, Scikit-learn  
 **Databases**: MySQL, MongoDB  
-**Tools**: Git, Tableau, Power BI, Excel  
+**Tools**: Git, Docker, Docker Compose, Tableau, Power BI, Excel  
 
 ---
 
