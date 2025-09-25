@@ -6,7 +6,7 @@ Computer Engineering graduate with hands-on experience in AI and full-stack deve
 🎓 **B.Tech in Computer Engineering (2021–2025)**  
 📍 Sardar Patel Institute of Technology, Mumbai  
 
-📫 **vedantdeshmukh3108@gmail.com** | [LinkedIn](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/) 
+<sub>📫 **vedantdeshmukh3108@gmail.com** | [LinkedIn](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/)</sub>  
 ---
 
 ## 💼 Experience  
