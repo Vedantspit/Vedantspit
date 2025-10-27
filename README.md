@@ -65,14 +65,14 @@ Always excited to solve real-world problems with code.
 **Backend & Frameworks**  
 `Node.js` `Express` `Flask` `FastAPI`
 
-**Frontend**  
-`React.js` `TailwindCSS` `Bootstrap`
-
 **Databases**  
 `MySQL` `MongoDB`
 
 **Cloud & DevOps**  
 `Docker` `Docker Compose` `Kubernetes` `Kafka` `Git`
+
+**Frontend**  
+`React.js` `TailwindCSS` `Bootstrap`
 
 **ML / DL**  
 `PyTorch` `TensorFlow` `scikit-learn` `OpenCV`
