@@ -80,15 +80,6 @@ Always excited to solve real-world problems with code.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedantspit&show_icons=true&theme=tokyonight" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Vedantspit&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Let’s Connect & Collaborate!
 
 I am open to **backend engineering**, **distributed systems**, **AI/ML research**, and **open-source** collaborations.  
