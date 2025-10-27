@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Vedant Deshmukh  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Vedantspit&color=blue&style=flat-square)]()
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square&logo=google-chrome)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/)
 
 🎯 **Software Engineer | AI & Backend Developer**  
