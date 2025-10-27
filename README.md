@@ -1,57 +1,95 @@
-# 👋 Hi, I'm Vedant Deshmukh  
-![Profile Views](https://komarev.com/ghpvc/?username=Vedantspit&color=blue&style=flat-square)
+# 👋 Hey, I'm Vedant Deshmukh  
 
-Computer Engineering graduate with hands-on experience in AI and full-stack development. I’m driven to explore challenging industry projects, collaborate on open-source, and continuously grow as an engineer.
+[![Profile Views](https://komarev.com/ghpvc/?username=Vedantspit&color=blue&style=flat-square)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=flat-square&logo=google-chrome)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/)
 
-🎓 **B.Tech in Computer Engineering (2021–2025)**  
-📍 Sardar Patel Institute of Technology, Mumbai  
+🎯 **Software Engineer | AI & Backend Developer**  
+Building scalable products with a strong foundation in distributed systems and machine learning.  
+Always excited to solve real-world problems with code.  
 
-<sub>Reach me at 📫 **vedantdeshmukh3108@gmail.com** | [LinkedIn](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/)</sub>  
----
-
-## 💼 Experience  
-
-**AI Intern @ DeepCytes CyberLabs (UK)** *(Jun 2024 – Dec 2024)*  
-- Built **deepfake detection systems** (CNNs, LSTMs, transfer learning) → improved video accuracy by **15%**, inference speed ↑ **30%**.  
-- Developed **audio deepfake detection pipeline** achieving **92% accuracy**.  
-- Integrated **real-time evaluation framework** for multimedia integrity with sub-500ms latency.  
-
-**Full-Stack Developer Intern @ IIT Bombay** *(Jan 2024 – Jul 2024)*  
-- Designed & deployed a **full-stack web app** for measuring typing performance in Indian languages.  
-- Collected **1000+ user sessions** and automated analysis of **typing speed and error rates** (Words Per Minute, Character Error Rate).  
-- Built **admin dashboards** and conducted a **long-term study** with **5000+ text samples** for linguistic performance analysis.  
+📍 Mumbai, India  
+📫 **vedantdeshmukh3108@gmail.com**
 
 ---
 
-## 📚 Publications  
+## 💼 Experience
 
-- 📝 [Application to Conduct Text Input Research Studies in Indian Languages](https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5)  
-- 📝 [Skin Cancer Classification using Transfer Learning](https://doi.org/10.1007/978-3-031-67444-0_17)  
+**AI Intern @ DeepCytes CyberLabs (UK)**  
+*Jun 2024 – Dec 2024*  
+- Developed **deepfake detection** systems (CNN, LSTM, TL models) → accuracy improved **15%**  
+- Built **audio deepfake detection** achieving **92% accuracy**  
+- Designed **real-time validation pipeline** for video + audio (< 500ms latency)  
 
----
-
-## 🚀 Projects  
-
-### [🍲 Food Recipe Blog Web App](https://github.com/Vedantspit/Food_Blog_App) | *MERN, JWT, Tailwind*  
-- Recipe-sharing platform with **secure authentication**, AI-powered **ChefBot**, and image uploads.  
-
-### [📡 IRS-Aided Jamming Detection Framework](https://github.com/Vedantspit/IRS_Jamming_Sim_Detection) | *ns-3, C++, ML*  
-- Simulated **5G with UAVs + IRS** for secure comms.  
-- Trained **CNN-LSTM** model for jamming detection (**87.26% accuracy**).  
-
-### [⌨ IDCText: Typing Performance Tool](https://github.com/Vedantspit/IDCText-app) | *PHP, MySQL, JS*  
-- Web app for **Indian language typing studies** with logging, CSV export, and real-time metrics.  
+**Full-Stack Developer Intern @ IIT Bombay**  
+*Jan 2024 – Jul 2024*  
+- Designed a **full-stack typing research platform** for Indian languages  
+- Collected & analyzed **1000+ user sessions**, **5000+ text samples**  
+- Automated linguistic analytics (WPM, CER) & created admin dashboards  
 
 ---
 
-## 🛠 Skills  
+## 📝 Publications
 
-**Languages**: C, C++, Python, Java, PHP, SQL, JavaScript  
-**Frameworks**: React, Node.js, Flask, FastAPI  
-**ML/DL**: PyTorch, TensorFlow, Scikit-learn  
-**Databases**: MySQL, MongoDB  
-**Tools**: Git, Docker, Docker Compose, Tableau, Power BI, Excel  
+- **Application to Conduct Text Input Research Studies in Indian Languages** — *Springer, 2024*  
+- **Skin Cancer Classification using Transfer Learning** — *Springer, 2023*  
 
 ---
 
-⭐️ Always open to **collaborations**, **research**, and **open-source contributions**.  
+## 🚀 Featured Projects
+
+### 🍲 Food Recipe Blog Web App  
+*MERN, JWT, Tailwind, Cloudinary*  
+- Authenticated recipe-sharing platform with **AI ChefBot**  
+🔗 https://github.com/Vedantspit/Food_Blog_App  
+
+### 📡 IRS-Aided Jamming Detection  
+*C++, ns-3, CNN-LSTM, RF ML models*  
+- UAV + **IRS 5G communication** jamming detection (**87.26%**)  
+🔗 https://github.com/Vedantspit/IRS_Jamming_Sim_Detection  
+
+### ⌨ IDCText: Typing Performance Tool  
+*PHP, MySQL, JS*  
+- Widely used in **long-term typing behavior research**  
+🔗 https://github.com/Vedantspit/IDCText-app  
+
+---
+
+## 🛠 Skills
+
+**Languages**  
+`C` `C++` `Python` `Java` `PHP` `JavaScript` `SQL`
+
+**Backend & Frameworks**  
+`Node.js` `Express` `Flask` `FastAPI`
+
+**Frontend**  
+`React.js` `TailwindCSS` `Bootstrap`
+
+**Databases**  
+`MySQL` `MongoDB`
+
+**Cloud & DevOps**  
+`Docker` `Docker Compose` `Kubernetes` `Kafka` `Git`
+
+**ML / DL**  
+`PyTorch` `TensorFlow` `scikit-learn` `OpenCV`
+
+**Analytics**  
+`Tableau` `Power BI` `Excel`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedantspit&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Vedantspit&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Let’s Connect & Collaborate!
+
+I am open to **backend engineering**, **distributed systems**, **AI/ML research**, and **open-source** collaborations.  
+Let’s build something impactful together! 🚀  
