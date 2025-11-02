@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vedant Deshmukh  
+# 👋 Hey, I'm Vedant   
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Vedantspit&color=blue&style=flat-square)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/)
