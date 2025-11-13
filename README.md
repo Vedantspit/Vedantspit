@@ -40,12 +40,12 @@ Always excited to solve real-world problems with code.
 🔗 https://github.com/Vedantspit/fynvid-aws
 
 ###  FoodShare Web -Recipe Blog App  
-*MongoDB, ExpressJS, JWT, React, TailW*  
+*MongoDB, ExpressJS, JWT, React, TailWind*  
 - Authenticated recipe-sharing platform with **AI ChefBot**  
 🔗 https://github.com/Vedantspit/Food_Blog_App  
 
 ###  IDCText: Typing Performance Tool  
-*PHP, MySQL, JS*  
+*PHP, MySQL, Javascript*  
 - Widely used in **long-term typing behavior research**  
 🔗 https://github.com/Vedantspit/IDCText-app
 
