@@ -60,10 +60,10 @@ Always excited to solve real-world problems with code.
 
 ## 📝 Publications
 
-- **Application to Conduct Text Input Research Studies in Indian Languages** — *Springer, 2024*  
+- **Application to Conduct Text Input Research Studies in Indian Languages** - *Springer, 2024*  
   🔗 https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5  
 
-- **Skin Cancer Classification using Transfer Learning** — *Springer, 2023*  
+- **Skin Cancer Classification using Transfer Learning** - *Springer, 2023*  
   🔗 https://doi.org/10.1007/978-3-031-67444-0_17  
 
 ---
