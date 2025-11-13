@@ -32,14 +32,13 @@ Always excited to solve real-world problems with code.
 ## 🚀 Featured Projects
 
 ### FynVid: Video-Streaming App
-### 🎥 FynVid: Video-Streaming App  
 *MongoDB, ExpressJS, Kafka, JWT, React, Cloudinary*  
 - Built a YouTube-like scalable video platform with uploads, likes, comments, and playlists  
 - Integrated real-time notifications and event streaming via Kafka  
 - Designed secure authentication and rate-limited APIs  
 🔗 https://github.com/Vedantspit/fynvid-aws
 
-###  FoodShare Web -Recipe Blog App  
+###  FoodShare Web - Recipe Blog App  
 *MongoDB, ExpressJS, JWT, React, TailWind*  
 - Authenticated recipe-sharing platform with **AI ChefBot**  
 🔗 https://github.com/Vedantspit/Food_Blog_App  
