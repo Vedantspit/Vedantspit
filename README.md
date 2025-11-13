@@ -31,20 +31,30 @@ Always excited to solve real-world problems with code.
 
 ## 🚀 Featured Projects
 
-### 🍲 Food Recipe Blog Web App  
-*MERN, JWT, Tailwind, Cloudinary*  
+### FynVid: Video-Streaming App
+
+*MongoDB, ExpressJS, Kafka, JWT, React, Cloudinary*  
+- Built a YouTube-like scalable video platform with uploads, likes, comments, and playlists
+- Integrated real-time notifications and event streaming via Kafka
+- Designed secure authentication and rate-limited APIs
+🔗 https://github.com/Vedantspit/fynvid-aws
+
+###  FoodShare Web -Recipe Blog App  
+*MongoDB, ExpressJS, JWT, React, TailW*  
 - Authenticated recipe-sharing platform with **AI ChefBot**  
 🔗 https://github.com/Vedantspit/Food_Blog_App  
 
-### 📡 IRS-Aided Jamming Detection  
+###  IDCText: Typing Performance Tool  
+*PHP, MySQL, JS*  
+- Widely used in **long-term typing behavior research**  
+🔗 https://github.com/Vedantspit/IDCText-app
+
+### IRS-Aided Jamming Detection  
 *C++, ns-3, CNN-LSTM, Deep Learning*  
 - UAV + **IRS 5G communication** jamming detection (**87.26%**)  
 🔗 https://github.com/Vedantspit/IRS_Jamming_Sim_Detection  
 
-### ⌨ IDCText: Typing Performance Tool  
-*PHP, MySQL, JS*  
-- Widely used in **long-term typing behavior research**  
-🔗 https://github.com/Vedantspit/IDCText-app  
+
 
 ---
 
