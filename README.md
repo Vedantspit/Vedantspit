@@ -16,7 +16,7 @@ I love designing scalable services, exploring deep learning, and working on proj
 
 ## 🚀 Projects
 
-### 🔹 [FynVid – Scalable Video-Streaming Platform](https://github.com/Vedantspit/fynvid-aws)
+### 🔹 [FynVid – Scalable Video-Streaming Platform](https://github.com/Vedantspit/FynVid)
 
 **Tech:** MongoDB · ExpressJS · Kafka · JWT · React · Cloudinary
 
@@ -55,7 +55,7 @@ I love designing scalable services, exploring deep learning, and working on proj
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Languages**\
 `C` `C++` `Python` `Java` `PHP` `JavaScript` `SQL`
@@ -80,7 +80,7 @@ I love designing scalable services, exploring deep learning, and working on proj
 
 ---
 
-## 📝 Publications
+## Publications
 
 - **Application to Conduct Text Input Research Studies in Indian
   Languages** - _Springer, 2024_\
