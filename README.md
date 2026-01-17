@@ -1,4 +1,4 @@
-# ![Wave](https://iam-weijie.github.io/wave/hand-emoji.svg) Hey, I'm Vedant
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="30"/> Hey, I'm Vedant
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Vedantspit&color=blue&style=flat-square)]()
 
