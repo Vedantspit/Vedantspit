@@ -1,4 +1,4 @@
-# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="36"/> Hey, I'm Vedant
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="75"/> Hey, I'm Vedant
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Vedantspit&color=blue&style=flat-square)]()
 
