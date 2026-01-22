@@ -19,12 +19,11 @@ I love designing scalable services, exploring deep learning, and working on proj
 ### 🔹 [FynVid – Scalable Video-Streaming Platform](https://github.com/Vedantspit/FynVid)
 **Tech:** MongoDB · Redis · ExpressJS · Kafka · JWT · React · Cloudinary
 
-- Developed core platform features including cloud-integrated video uploads, dynamic playlist management, and nested comment systems.
-- Optimized user engagement state (likes, subscriptions, and history) through an asynchronous, event-driven architecture to reduce primary DB contention.
-- Engineered a distributed video-streaming backend handling high-concurrency event streams for real-time notifications via **Apache Kafka**.
-- Architected **Cursor-based Pagination** for video feeds to maintain $O(1)$ query performance and eliminate data-skipping issues during infinite scrolls.
-- Hardened API infrastructure with **Redis-backed Atomic Rate Limiting** to secure video upload and engagement endpoints against automated abuse.
-- Implemented secure, stateless authentication using **JWT** with granular middleware for resource-level access control.
+- Built a full-stack video streaming platform with cloud-based uploads, playlists, subscriptions, and nested comment systems.
+- Designed an **event-driven backend** using **Apache Kafka** to asynchronously process views, likes, comments, and notifications at scale.
+- Implemented **cursor-based pagination** for video feeds to achieve **O(1)** query performance and prevent data-skipping during infinite scroll.
+- Secured high-traffic endpoints using **Redis-backed atomic rate limiting** to mitigate login abuse, comment spam, and automated engagement.
+- Implemented **stateless JWT authentication** with fine-grained middleware for resource-level access control.
 
 ---
 
