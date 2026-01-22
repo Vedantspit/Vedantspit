@@ -17,83 +17,67 @@ I love designing scalable services, exploring deep learning, and working on proj
 ## 🚀 Projects
 
 ### 🔹 [FynVid – Scalable Video-Streaming Platform](https://github.com/Vedantspit/FynVid)
+**Tech:** MongoDB · Redis · ExpressJS · Kafka · JWT · React · Cloudinary
 
-**Tech:** MongoDB · ExpressJS · Kafka · JWT · React · Cloudinary
-
-- YouTube-like video platform with uploads, playlists, likes & comments
-- Real-time notifications powered by **Kafka event streaming**
-- Secure authentication with JWT + API rate limiting
+- **High-Performance Scaling:** Implemented **Cursor-based Pagination** for video feeds to ensure $O(1)$ query performance and prevent data skipping during infinite scrolls.
+- **Traffic Management:** Integrated **Redis-based Rate Limiting** to protect system resources and manage API throughput.
+- **Event-Driven Architecture:** Real-time notifications and background tasks powered by **Kafka event streaming**.
+- **Full-Stack Features:** YouTube-like experience with secure JWT auth, video uploads, and interactive playlists/comments.
 
 ---
 
 ### 🔹 [IDCText – Typing Performance Research Tool](https://github.com/Vedantspit/IDCText-app)
-
 **Tech:** PHP · MySQL · JavaScript
 
-- Applicable widely in long-term typing behavior research studies for Indian Languages
-- Designed a full-stack web tool with configurable study parameters (keyboard type, study mode, and custom phrase inputs)
-- Scalable backend architecture with modular study flows
-- Built efficient user management for multiple concurrent participants
-- Integrated Chart.js for real-time visualization + automated CSV exports
+- Built a full-stack research tool used in long-term typing behavior studies for Indian Languages.
+- Configurable study parameters including keyboard types, study modes, and custom phrase inputs.
+- Integrated **Chart.js** for real-time data visualization and automated CSV exports for researchers.
 
 ---
 
 ### 🔹 [IRS-Aided Jamming Detection in 5G Networks](https://github.com/Vedantspit/IRS_Jamming_Sim_Detection)
-
 **Tech:** C++ · ns-3 · CNN-LSTM · Deep Learning
 
-- UAV + IRS-based jamming detection achieving **87.26% accuracy**
+- UAV + IRS-based jamming detection system for 5G environments.
+- Developed a hybrid **CNN-LSTM** model achieving **87.26% accuracy** in signal classification.
 
 ---
 
 ### 🔹 [FoodShare Web – Recipe Blog with AI ChefBot](https://github.com/Vedantspit/Food_Blog_App)
-
 **Tech:** MongoDB · ExpressJS · JWT · React · Tailwind
 
-- Full-stack recipe-sharing platform with authentication
-- Integrated **AI-powered ChefBot** for recipe suggestions
+- Full-stack recipe-sharing platform with secure user authentication.
+- Integrated **AI-powered ChefBot** to provide personalized recipe suggestions based on user ingredients.
 
 ---
 
 ## Skills
 
-**Languages**\
-`C` `C++` `Python` `Java` `PHP` `JavaScript` `SQL`
+**Languages** `C` `C++` `Python` `Java` `PHP` `JavaScript` `SQL`
 
-**Backend & Frameworks**\
-`Node.js` `Express` `Flask` `FastAPI`
+**Backend & Frameworks** `Node.js` `Express` `Flask` `FastAPI` `Redis`
 
-**Databases**\
-`MySQL` `MongoDB`
+**Databases** `MySQL` `MongoDB`
 
-**Cloud & DevOps**\
-`Docker` `Docker Compose` `Kubernetes` `Kafka` `Git`
+**Cloud & DevOps** `Docker` `Docker Compose` `Kubernetes` `Kafka` `Git`
 
-**Frontend**\
-`React.js` `TailwindCSS` `Bootstrap`
+**Frontend** `React.js` `TailwindCSS` `Bootstrap`
 
-**ML / DL**\
-`PyTorch` `TensorFlow` `scikit-learn` `OpenCV`
+**ML / DL** `PyTorch` `TensorFlow` `scikit-learn` `OpenCV`
 
-**Analytics**\
-`Tableau` `Power BI` `Excel`
+**Analytics** `Tableau` `Power BI` `Excel`
 
 ---
 
 ## Publications
 
-- **Application to Conduct Text Input Research Studies in Indian
-  Languages** - _Springer, 2024_\
-  🔗 https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5
+- **Application to Conduct Text Input Research Studies in Indian Languages** - *Springer, 2024* 🔗 [Read Publication](https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5)
 
-- **Skin Cancer Classification using Transfer Learning** - _Springer,
-  2023_\
-  🔗 https://doi.org/10.1007/978-3-031-67444-0_17
+- **Skin Cancer Classification using Transfer Learning** - *Springer, 2023* 🔗 [Read Publication](https://doi.org/10.1007/978-3-031-67444-0_17)
 
 ---
 
 ## 🤝 Let's Connect & Collaborate!
 
-I am open to **backend engineering**, **distributed systems**, **AI/ML
-research**, and **open-source** collaborations.\
+I am open to **backend engineering**, **distributed systems**, **AI/ML research**, and **open-source** collaborations.  
 Let's build something impactful together! 🚀
