@@ -19,10 +19,12 @@ I love designing scalable services, exploring deep learning, and working on proj
 ### 🔹 [FynVid – Scalable Video-Streaming Platform](https://github.com/Vedantspit/FynVid)
 **Tech:** MongoDB · Redis · ExpressJS · Kafka · JWT · React · Cloudinary
 
-- **High-Performance Scaling:** Implemented **Cursor-based Pagination** for video feeds to ensure $O(1)$ query performance and prevent data skipping during infinite scrolls.
-- **Traffic Management:** Integrated **Redis-based Rate Limiting** to protect system resources and manage API throughput.
-- **Event-Driven Architecture:** Real-time notifications and background tasks powered by **Kafka event streaming**.
-- **Full-Stack Features:** YouTube-like experience with secure JWT auth, video uploads, and interactive playlists/comments.
+- Developed core platform features including cloud-integrated video uploads, dynamic playlist management, and nested comment systems.
+- Optimized user engagement state (likes, subscriptions, and history) through an asynchronous, event-driven architecture to reduce primary DB contention.
+- Engineered a distributed video-streaming backend handling high-concurrency event streams for real-time notifications via **Apache Kafka**.
+- Architected **Cursor-based Pagination** for video feeds to maintain $O(1)$ query performance and eliminate data-skipping issues during infinite scrolls.
+- Hardened API infrastructure with **Redis-backed Atomic Rate Limiting** to secure video upload and engagement endpoints against automated abuse.
+- Implemented secure, stateless authentication using **JWT** with granular middleware for resource-level access control.
 
 ---
 
@@ -53,19 +55,23 @@ I love designing scalable services, exploring deep learning, and working on proj
 
 ## Skills
 
-**Languages** `C` `C++` `Python` `Java` `PHP` `JavaScript` `SQL`
+**Languages**\
+`C` `C++` `Python` `Java` `PHP` `JavaScript` `SQL`
 
-**Backend & Frameworks** `Node.js` `Express` `Flask` `FastAPI` `Redis`
+**Backend & Infrastructure**\
+`Node.js` `Express` `Redis` `Kafka` `Flask` `FastAPI`
 
-**Databases** `MySQL` `MongoDB`
+**Databases**\
+`MySQL` `MongoDB`
 
-**Cloud & DevOps** `Docker` `Docker Compose` `Kubernetes` `Kafka` `Git`
+**DevOps & Scaling**\
+`Docker` `Docker Compose` `Kubernetes` `Git`
 
-**Frontend** `React.js` `TailwindCSS` `Bootstrap`
+**ML / DL**\
+`PyTorch` `TensorFlow` `scikit-learn` `OpenCV`
 
-**ML / DL** `PyTorch` `TensorFlow` `scikit-learn` `OpenCV`
-
-**Analytics** `Tableau` `Power BI` `Excel`
+**Analytics**\
+`Tableau` `Power BI` `Excel`
 
 ---
 
