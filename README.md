@@ -76,9 +76,9 @@ I love designing scalable services, exploring deep learning, and working on proj
 
 ## Publications
 
-- **Application to Conduct Text Input Research Studies in Indian Languages** - *Springer, 2024* 🔗 [Read Publication](https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5)
+- **Application to Conduct Text Input Research Studies in Indian Languages** - *Springer, 2024*  [Read Publication](https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5)
 
-- **Skin Cancer Classification using Transfer Learning** - *Springer, 2023* 🔗 [Read Publication](https://doi.org/10.1007/978-3-031-67444-0_17)
+- **Skin Cancer Classification using Transfer Learning** - *Springer, 2023* [Read Publication](https://doi.org/10.1007/978-3-031-67444-0_17)
 
 ---
 
