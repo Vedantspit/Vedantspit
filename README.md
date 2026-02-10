@@ -14,7 +14,7 @@ I love designing scalable services, exploring deep learning, and working on proj
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🔹 [FynVid – Scalable Video-Streaming Platform](https://github.com/Vedantspit/FynVid)
 **Tech:** MongoDB · Redis · ExpressJS · Kafka · JWT · React · Cloudinary
