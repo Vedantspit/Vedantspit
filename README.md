@@ -58,7 +58,7 @@ I love designing scalable services, exploring deep learning, and working on proj
 `C` `C++` `Python` `Java` `PHP` `JavaScript` `SQL`
 
 **Backend & Infrastructure**\
-`Node.js` `Express` `Redis` `Kafka` `Flask` `FastAPI`
+`Node.js` `Express` `Redis` `Kafka` `Flask` `FastAPI` `n8n`
 
 **Databases**\
 `MySQL` `MongoDB`
