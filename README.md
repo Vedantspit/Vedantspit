@@ -1,74 +1,88 @@
-# 👋 Hey, I'm Vedant
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="75"/> Hey, I'm Vedant
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Vedantspit\&color=blue\&style=flat-square)]()
+[![Profile Views](https://komarev.com/ghpvc/?username=Vedantspit&color=blue&style=flat-square)]()
 
-## 🚀 About Me
+## Connect Here 
 
-I’m a Software Engineer focused on **backend systems**, **distributed architectures**, and **AI-driven applications**.
-I enjoy building scalable services, designing event-driven systems, and solving real-world problems at the intersection of systems + ML.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantdeshmukh3108@gmail.com)
 
----
+## About Me :)
 
-## 🔥 Featured Projects
-
-### 🔹 [FynVid – Scalable Video Platform](https://github.com/Vedantspit/FynVid)
-
-**Tech:** MongoDB · Redis · Express · Kafka · React
-
-* Built a scalable video streaming platform with **event-driven backend (Kafka)**
-* Implemented **cursor-based pagination** and **Redis rate limiting** for high-traffic APIs
-* Designed **stateless JWT auth** with fine-grained access control
+I’m a Software Engineer passionate about building backend systems, distributed architectures, and AI-driven applications.  
+I love designing scalable services, exploring deep learning, and working on projects that bridge the gap between software engineering and intelligent systems.
 
 ---
 
-### 🔹 [IRS-Aided Jamming Detection (5G)](https://github.com/Vedantspit/IRS_Jamming_Sim_Detection)
+## Projects
 
-**Tech:** C++ · ns-3 · CNN-LSTM
+### 🔹 [FynVid – Scalable Video-Streaming Platform](https://github.com/Vedantspit/FynVid)
+**Tech:** MongoDB · Redis · ExpressJS · Kafka · JWT · React · Cloudinary
 
-* Developed UAV + IRS-based system for **jamming detection in 5G networks**
-* Built hybrid **CNN-LSTM model achieving 87.26% accuracy**
+- Built a full-stack video streaming platform with cloud-based uploads, playlists, subscriptions, and nested comment systems.
+- Designed an **event-driven backend** using **Apache Kafka** to asynchronously process views, likes, comments, and notifications at scale.
+- Implemented **cursor-based pagination** for video feeds to achieve **O(1)** query performance and prevent data-skipping during infinite scroll.
+- Secured high-traffic endpoints using **Redis-backed atomic rate limiting** to mitigate login abuse, comment spam, and automated engagement.
+- Implemented **stateless JWT authentication** with fine-grained middleware for resource-level access control.
 
 ---
 
-### 🔹 [IDCText – Typing Research Tool](https://github.com/Vedantspit/IDCText-app)
-
+### 🔹 [IDCText – Typing Performance Research Tool](https://github.com/Vedantspit/IDCText-app)
 **Tech:** PHP · MySQL · JavaScript
 
-* Built research platform for **Indian language typing studies**
-* Added configurable experiments + **real-time analytics (Chart.js)**
+- Built a full-stack research tool used in long-term typing behavior studies for Indian Languages.
+- Configurable study parameters including keyboard types, study modes, and custom phrase inputs.
+- Integrated **Chart.js** for real-time data visualization and automated CSV exports for researchers.
 
 ---
 
-## 🛠️ Tech Stack
+### 🔹 [IRS-Aided Jamming Detection in 5G Networks](https://github.com/Vedantspit/IRS_Jamming_Sim_Detection)
+**Tech:** C++ · ns-3 · CNN-LSTM · Deep Learning
 
-**Backend:** Node.js, Express, Kafka, Redis
-
-**Databases:** MongoDB, MySQL
-
-**DevOps:** Docker, Kubernetes
-
-**ML/DL:** PyTorch, TensorFlow, scikit-learn
+- UAV + IRS-based jamming detection system for 5G environments.
+- Developed a hybrid **CNN-LSTM** model achieving **87.26% accuracy** in signal classification.
 
 ---
 
-## 📚 Publications
+### 🔹 [FoodShare Web – Recipe Blog with AI ChefBot](https://github.com/Vedantspit/Food_Blog_App)
+**Tech:** MongoDB · ExpressJS · JWT · React · Tailwind
 
-* *Application to Conduct Text Input Research Studies in Indian Languages* — Springer, 2024
-* *Skin Cancer Classification using Transfer Learning* — Springer, 2023
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vedant-deshmukh-47b1a122a/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vedantdeshmukh3108@gmail.com)
+- Full-stack recipe-sharing platform with secure user authentication.
+- Integrated **AI-powered ChefBot** to provide personalized recipe suggestions based on user ingredients.
 
 ---
 
-## 📊 GitHub Stats
+## Skills
 
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedantspit\&show_icons=true\&theme=tokyonight)
+**Languages**\
+`C` `C++` `Python` `Java` `PHP` `JavaScript` `SQL`
+
+**Backend & Infrastructure**\
+`Node.js` `Express` `Redis` `Kafka` `Flask` `FastAPI` `n8n`
+
+**Databases**\
+`MySQL` `MongoDB`
+
+**DevOps & Scaling**\
+`Docker` `Docker Compose` `Kubernetes` `Git`
+
+**ML / DL**\
+`PyTorch` `TensorFlow` `scikit-learn` `OpenCV`
+
+**Analytics**\
+`Tableau` `Power BI` `Excel`
 
 ---
 
-⭐ *Open to backend engineering, distributed systems, and AI/ML opportunities*
+## Publications
+
+- **Application to Conduct Text Input Research Studies in Indian Languages** - *Springer, 2024*  [Read Publication](https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5)
+
+- **Skin Cancer Classification using Transfer Learning** - *Springer, 2023* [Read Publication](https://doi.org/10.1007/978-3-031-67444-0_17)
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+I am open to **backend engineering**, **distributed systems**, **AI/ML research**, and **open-source** collaborations.  
+Let's build something impactful together! 🚀
