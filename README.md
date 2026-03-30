@@ -42,8 +42,11 @@ I enjoy building scalable services, designing event-driven systems, and solving 
 ## 🛠️ Tech Stack
 
 **Backend:** Node.js, Express, Kafka, Redis
+
 **Databases:** MongoDB, MySQL
+
 **DevOps:** Docker, Kubernetes
+
 **ML/DL:** PyTorch, TensorFlow, scikit-learn
 
 ---
