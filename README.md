@@ -17,19 +17,16 @@ Interested in AI-driven applications and high-performance system design.
 C++ · Python · Java · TypeScript · JavaScript · SQL  
 
 **Backend:**  
-Node.js · Express · FastAPI · Microservices  
+Node.js · Express · FastAPI · Microservices · Kafka · Redis · n8n  
 
 **Frontend:**  
 React · Next.js  
 
 **Data:**  
-PostgreSQL · MongoDB · Redis  
+PostgreSQL · MySQL · MongoDB   
 
 **DevOps:**  
 Docker · Kubernetes · AWS · CI/CD  
-
-**Automation:**  
-n8n · Kafka  
 
 **ML:**  
 PyTorch · TensorFlow · Scikit-learn  
