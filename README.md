@@ -11,7 +11,7 @@ Interested in AI-driven applications and high-performance system design.
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantdeshmukh3108@gmail.com)
 
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Languages:**
 C · C++ · Python · Java · JavaScript · SQL · TypeScript 
@@ -28,8 +28,8 @@ Docker · Kubernetes · Git
 **ML / DL:**
 PyTorch · TensorFlow · scikit-learn
 
-## 📌 Currently
+## Currently
 
-* Building with **Next.js + TypeScript + PostgreSQL (Supabase)**
+* Currently working with **Next.js + TypeScript + PostgreSQL (Supabase)**
 * Learning **Low-Level Design (LLD)**
 * Practicing **Data Structures & Algorithms**
