@@ -11,22 +11,28 @@ Interested in AI-driven applications and high-performance system design.
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantdeshmukh3108@gmail.com)
 
 
-## Tech Stack
+## ⚡ Tech Stack
 
-**Languages:**
-C · C++ · Python · Java · JavaScript · SQL · TypeScript 
+**Languages:**  
+C++ · Python · Java · TypeScript · JavaScript · SQL  
 
-**Backend & Infra:**
-Node.js · Express · Redis · Kafka · FastAPI
+**Backend:**  
+Node.js · Express · FastAPI · Microservices  
 
-**Databases:**
-MongoDB · MySQL · PostgreSQL
+**Frontend:**  
+React · Next.js  
 
-**DevOps:**
-Docker · Kubernetes · Git
+**Data:**  
+PostgreSQL · MongoDB · Redis  
 
-**ML / DL:**
-PyTorch · TensorFlow · scikit-learn
+**DevOps:**  
+Docker · Kubernetes · AWS · CI/CD  
+
+**Automation:**  
+n8n · Kafka  
+
+**ML:**  
+PyTorch · TensorFlow · Scikit-learn  
 
 ## Currently
 
