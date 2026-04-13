@@ -33,6 +33,6 @@ PyTorch · TensorFlow · Scikit-learn
 
 ## Currently
 
-* Currently working with **Next.js + TypeScript + PostgreSQL (Supabase)**
-* Learning **Low-Level Design (LLD)**
-* Practicing **Data Structures & Algorithms**
+* Currently working with Next.js + TypeScript + PostgreSQL (Supabase)
+* Learning Low-Level Design (LLD)
+* Practicing Data Structures & Algorithms
